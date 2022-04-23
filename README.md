@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jatusantoso
-- 👀 I’m interested in Data Science, 
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science, Data Analytics, HR, Stock.
+- 🌱 I’m currently learning Data science at dibimbing.id
 - 📫 How to reach me via my linkedin https://www.linkedin.com/in/jatusantoso/
 
 <!---
